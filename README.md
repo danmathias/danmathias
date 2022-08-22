@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danilo</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danmathias&label=Profile%20views&color=0e75b6&style=flat" alt="danmathias" /> </p>
-
 - 🔭 I’m currently working on [maroons cocktail](https://github.com/danmathias/maroons-coquetel)
 
 - 🌱 I’m currently learning **Vue.js and TypeScript**
@@ -31,6 +29,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danmathias&show_icons=true&locale=en" alt="danmathias" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danmathias&" alt="danmathias" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danmathias&label=Profile%20views&color=0e75b6&style=flat" alt="danmathias" /> </p>
 
 
 
