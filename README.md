@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danmathias&label=Profile%20views&color=0e75b6&style=flat" alt="danmathias" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danmathias" alt="danmathias" /></a> </p>
-
 - 🔭 I’m currently working on [maroons cocktail](https://github.com/danmathias/maroons-coquetel)
 
 - 🌱 I’m currently learning **Vue.js and TypeScript**
@@ -36,13 +34,14 @@
 
 
 
+<!---
 - 👋 Hi, I’m @danmathias
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
 danmathias/danmathias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danmathias" alt="danmathias" /></a> </p>
 --->
