@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear 👋🏾, I'm Danilo</h1>
+<h1 align="center">Hi dear 👋, I'm Danilo</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 🔭 I’m currently working on [maroons cocktail](https://github.com/danmathias/maroons-coquetel)
